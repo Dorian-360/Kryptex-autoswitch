@@ -20,7 +20,6 @@ Le script effectue les benchmarks de votre matériel, récupère les données de
 - Support CPU multi-thread
 - Possibilité de désactiver complètement CPU ou GPU
 - Affichage dynamique dans le terminal
-- Tableau CPU et GPU côte à côte
 - Gain CPU + GPU total
 - Affichage des gains en EUR (€) ou USD ($)
 - Arrêt propre avec `Ctrl+C`
