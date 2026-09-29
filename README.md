@@ -24,6 +24,7 @@ AutoSwitch communautaire et non officiel permettant d'utiliser **Kryptex sous Ub
 Téléchargez `kryptex-autoswitch`, puis :
 
 ```bash
+wget https://github.com/Dorian-360/Kryptex-autoswitch/releases/download/v1.3/kryptex-autoswitch.V1.3
 chmod +x kryptex-autoswitch
 sudo ./kryptex-autoswitch --cpu 32 --gpu 1
 ```
@@ -33,7 +34,7 @@ Au premier lancement, le script demande votre **Mining Username Kryptex**.
 Vous pouvez le retrouver dans votre compte Kryptex. Il ressemble à :
 
 ```text
-krxX3QD94R
+krxX3QD88J
 ```
 
 Entrez uniquement la partie `krx...`.
