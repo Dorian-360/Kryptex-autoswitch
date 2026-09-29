@@ -48,7 +48,7 @@ Cela permet de soutenir le développement du projet sans ajouter de frais suppl�
 Téléchargez la dernière version :
 
 ```bash
-cd ~
+cd /home/user
 wget https://github.com/Dorian-360/Kryptex-autoswitch/releases/download/v1.3/kryptex-autoswitch.V1.3
 mv kryptex-autoswitch.V1.3 kryptex-autoswitch
 chmod +x kryptex-autoswitch
