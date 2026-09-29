@@ -71,19 +71,7 @@ Il ressemble à ceci :
 krxX3QD88J
 ```
 
-Entrez uniquement la partie :
-
-```text
-krx...
-```
-
 Le nom de votre machine est automatiquement ajouté comme nom de worker.
-
-Exemple :
-
-```text
-krxX3QD88J.9950x-01
-```
 
 La configuration est ensuite enregistrée pour les prochains lancements.
 
