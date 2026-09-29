@@ -3,6 +3,7 @@
 AutoSwitch communautaire et non officiel permettant d'utiliser **Kryptex sous Ubuntu/Linux**.
 
 Le script gère automatiquement le minage **CPU et GPU**, compare la rentabilité des différentes monnaies compatibles et sélectionne automatiquement la plus rentable.
+
 <img width="684" height="402" alt="Capture d&#39;écran 2026-09-29 203738" src="https://github.com/user-attachments/assets/bb6561a7-9371-43f9-ae99-587cf63b7113" />
 
 ## 🚀 Fonctionnalités
