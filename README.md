@@ -92,7 +92,7 @@ krxXXXXXXX
 Par exemple :
 
 ```text
-krxX3QD94R
+krxX3QD88J
 ```
 
 ⚠️ Il ne faut pas entrer le nom de votre machine.
